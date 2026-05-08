@@ -6,6 +6,7 @@ sudo pacman -S <package-name> to install a package
 sudo pacman -Ss <package-name> to search repositories
 
 sudo pacman -Qs keyword to search installed packages
+
 sudo pacman -Rs remove package and no-longer needed dependencies
 
 # Put system into low-power state
